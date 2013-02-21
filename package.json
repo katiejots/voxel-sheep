@@ -1,0 +1,34 @@
+{
+  "name": "voxel-sheep",
+  "version": "0.0.0",
+  "description": "Block sheep for voxel.js",
+  "main": "index.js",
+  "dependencies": {
+    "voxel-texture": "~0.3.1",
+    "voxel-physical": "~0.0.2",
+    "voxel-creature": "~0.1.0",
+    "ecstatic": "0.4.0"
+  },
+  "devDependencies": {
+    "voxel-player": "~0.0.0",
+    "voxel-engine": "~0.0.0",
+    "painterly-textures": "~0.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/codemiller/voxel-sheep.git"
+  },
+  "homepage": "https://github.com/codemiller/voxel-sheep",
+  "keywords": [
+    "sheep",
+    "voxel",
+    "voxel.js",
+    "creature"
+  ],
+  "author": {
+    "name": "Katie Miller (katie@codemiller.com)",
+    "email": "katie@codemiller.com",
+    "url": "http://codemiller.com"
+  },
+  "license": "MIT"
+}
