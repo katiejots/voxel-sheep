@@ -1,6 +1,8 @@
-Sheep for Voxel.js.
+# voxel-sheep
 
-=== USAGE ===
+Sheep creature for [voxel.js](http://voxeljs.com) world. 
 
-var createSheep = require('voxel-sheep')(game);
-var sheep = createSheep({x: 10, y: 10, z: 10});
+# Usage
+
+    var createSheep = require('voxel-sheep')(game);
+    var sheep = createSheep({x: 10, y: 10, z: 10});
